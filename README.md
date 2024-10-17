@@ -13,7 +13,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JesseW2158&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-<img src="https://myreadme.vercel.app/api/embed/JesseW2158?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JesseW2158&theme=tokyonight" alt="mystreak"/>
 
 <!---
 JesseW2158/JesseW2158 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
