@@ -15,9 +15,7 @@
 
 ![Metrics](https://metrics.lecoq.io/JesseW2158?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
-![Snake animation](https://github.com/JesseW2158/JesseW2158/github-contribution-grid-snake-dark.svg)
-
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/JesseW2158/JesseW2158/output/github-contribution-grid-snake-dark.svg)
 
 <!---
 JesseW2158/JesseW2158 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
