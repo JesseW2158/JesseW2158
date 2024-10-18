@@ -14,8 +14,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JesseW2158&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-
-
 ![Snake animation](https://raw.githubusercontent.com/JesseW2158/JesseW2158/output/github-contribution-grid-snake-dark.svg)
 
 ![Metrics](https://metrics.lecoq.io/JesseW2158?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
