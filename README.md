@@ -8,10 +8,10 @@
 
 ## My Github Overview
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JesseW2158&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JesseW2158&theme=ambient_gradient" alt="mystreak"/>
   
-<img src="https://github-readme-stats.vercel.app/api?username=JesseW2158&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,2f259f" alt="My Github Stats"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesseW2158&theme=ambient_gradient&show_icons=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JesseW2158&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JesseW2158&show_icons=true&locale=en&layout=compact&theme=ambient_gradient" alt="ovi" />
 
 ![Snake animation](https://raw.githubusercontent.com/JesseW2158/JesseW2158/output/github-contribution-grid-snake-dark.svg)
