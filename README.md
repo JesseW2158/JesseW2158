@@ -3,7 +3,7 @@
 - 🌱 I’m currently focusing on improving my grasp of machine learning.
 - 📫 Reach me through my phone (860-266-9870) or through email (jessewang2158@gmail.com).
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I'm working with [Professor Dongjin Song](https://github.com/songdj) at the [University of Connecticut](https://github.com/uconn) and on [Team 2170](https://github.com/Team2170) preparing for the First Robotics Competition right now.
+- ⚡ Fun fact: I'm working with [Professor Dongjin Song](https://github.com/songdj) at the [University of Connecticut](https://github.com/uconn) and on [Team 2170](https://github.com/Team2170), preparing for the First Robotics Competition right now.
 
 
 ## My Github Overview
