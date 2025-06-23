@@ -10,14 +10,8 @@
 
 ![Snake animation](https://raw.githubusercontent.com/JesseW2158/JesseW2158/output/github-contribution-grid-snake-dark.svg)
 
-<a href="https://github.com/JesseW2158">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JesseW2158&show_icons=true&locale=en&layout=compact&theme=ambient_gradient" alt="ovi" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JesseW2158&show_icons=true&locale=en&layout=compact&theme=ambient_gradient" alt="ovi" />
 
-<a href="https://github.com/JesseW2158">
-  <img src="https://github-readme-stats.vercel.app/api?username=JesseW2158&theme=ambient_gradient&show_icons=true" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=JesseW2158&theme=ambient_gradient&show_icons=true" />
 
-<a href="https://github.com/JesseW2158">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JesseW2158&theme=ambient_gradient" alt="mystreak"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JesseW2158&theme=ambient_gradient" alt="mystreak"/>
