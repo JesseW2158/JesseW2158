@@ -63,7 +63,7 @@ I'm a senior at **Glastonbury High School** with a passion for machine learning 
 ### 🤖 2026-Rebuilt
 **Our 2026 Season FRC Robot**
 
-The Galvanized Guardians' 2026 season's competition robot.
+The Galvanized Guardians's 2026 season's competition robot.
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Team2170/2026-Rebuilt)
 ![Stars](https://img.shields.io/github/stars/Team2170/2026-Rebuilt?style=social)
@@ -74,7 +74,7 @@ The Galvanized Guardians' 2026 season's competition robot.
 ### 📊 PulseLine
 **Health Monitoring Agent**
 
-Python-based healthcare agent, aimed to help lessen the burden on 
+Python-based healthcare agent, aimed to help lessen the burden on medical professionals worldwide.
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PulseLine-Agent/PulseLine)
 ![Stars](https://img.shields.io/github/stars/PulseLine-Agent/PulseLine?style=social)
@@ -84,13 +84,13 @@ Python-based healthcare agent, aimed to help lessen the burden on
 <tr>
 <td width="50%">
 
-### 🧠 ML Models Implementation
-**Machine Learning Practice**
+### 🗺️ Blueprint 2025
+**Blueprint 2025**
 
-Implementing various ML algorithms from scratch to deepen understanding of core concepts.
+A MIT hackathon project, utilizing Arduino hardware and pose-detection software to monitor posture and give real-time feedback to encourage users to maintain good posture.
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JesseW2158/Machine-Learning-Models-Implementation)
-![Stars](https://img.shields.io/github/stars/JesseW2158/Machine-Learning-Models-Implementation?style=social)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JesseW2158/Blueprint-2025)
+![Stars](https://img.shields.io/github/stars/JesseW2158/Blueprint-2025?style=social)
 
 </td>
 <td width="50%">
