@@ -137,7 +137,6 @@ Kotlin-based task management app created for the Congressional App Challenge.
 
 [![Email](https://img.shields.io/badge/Email-jessewang2158@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jessewang2158@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-860--266--9870-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:860-266-9870)
-[![GitHub](https://img.shields.io/badge/GitHub-JesseW2158-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JesseW2158)
 
 </div>
 
