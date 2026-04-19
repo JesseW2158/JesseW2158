@@ -4,8 +4,8 @@
 
 ### High School Senior · Machine Learning Enthusiast · Robotics Programming & Electronics Captain
 
-I'm a senior at **Glastonbury High School** passionate about machine learning and robotics.
-As **Programming & Electronics Captain** for [Team 2170](https://github.com/Team2170), I lead technical development while continuously deepening my knowledge in AI and computer science.
+I'm a senior at **Glastonbury High School**, passionate about machine learning and robotics.
+As the **Programming & Electronics Captain** for [Team 2170](https://github.com/Team2170), I lead technical development while continuously deepening my knowledge in AI and computer science.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+intelligent+systems;Exploring+machine+learning;Leading+robotics+programming" alt="Typing SVG" />
 
