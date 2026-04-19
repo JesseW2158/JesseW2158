@@ -2,9 +2,10 @@
 
 # 👋 Hey, I'm Jesse Wang
 
-### High School Senior | Machine Learning Enthusiast | Robotics Programming Captain
+### High School Senior · Machine Learning Enthusiast · Robotics Programming Captain
 
-I'm a senior at **Glastonbury High School** with a passion for machine learning and robotics. As the **Programming & Electronics Captain** for [Team 2170](https://github.com/Team2170), I lead technical development while continuously expanding my knowledge in AI and computer science.
+I'm a senior at **Glastonbury High School** passionate about machine learning and robotics.
+As **Programming & Electronics Captain** for [Team 2170](https://github.com/Team2170), I lead technical development while continuously deepening my knowledge in AI and computer science.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+intelligent+systems;Exploring+machine+learning;Leading+robotics+programming" alt="Typing SVG" />
 
@@ -35,7 +36,7 @@ I'm a senior at **Glastonbury High School** with a passion for machine learning 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Ultralytics](https://img.shields.io/badge/ultralytics-%23111F68.svg?style=for-the-badge&logo=ultralytics&logoColor=white)
 
-### Frameworks & Platforms & Libraries
+### Frameworks & Platforms
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -43,10 +44,10 @@ I'm a senior at **Glastonbury High School** with a passion for machine learning 
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -58,23 +59,27 @@ I'm a senior at **Glastonbury High School** with a passion for machine learning 
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 2026-Rebuilt
 **Our 2026 Season FRC Robot**
 
-The Galvanized Guardians's 2026 season's competition robot.
+The Galvanized Guardians' 2026 season competition robot — featuring swerve drive, AdvantageKit telemetry, PathPlanner autonomous routines, and Phoenix 6 motor control.
+
+`Java` `WPILib` `PathPlanner` `Phoenix 6`
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Team2170/2026-Rebuilt)
 ![Stars](https://img.shields.io/github/stars/Team2170/2026-Rebuilt?style=social)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📊 PulseLine
+### 💓 PulseLine
 **Health Monitoring Agent**
 
-Python-based healthcare agent, aimed to help lessen the burden on medical professionals worldwide.
+A Python-based healthcare agent designed to help lessen the burden on medical professionals worldwide through intelligent health monitoring and alerting.
+
+`Python` `FastAPI` `ML` `Twilio`
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PulseLine-Agent/PulseLine)
 ![Stars](https://img.shields.io/github/stars/PulseLine-Agent/PulseLine?style=social)
@@ -82,25 +87,30 @@ Python-based healthcare agent, aimed to help lessen the burden on medical profes
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🗺️ Blueprint 2025
-**Blueprint 2025**
+**MIT Hackathon Project**
 
-A MIT hackathon project, utilizing Arduino hardware and pose-detection software to monitor posture and give real-time feedback to encourage users to maintain good posture.
+An MIT hackathon project using Arduino hardware and pose-detection software to monitor posture and deliver real-time feedback, encouraging users to maintain healthy ergonomics.
+
+`Python` `Arduino` `Computer Vision` `MediaPipe`
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JesseW2158/Blueprint-2025)
 ![Stars](https://img.shields.io/github/stars/JesseW2158/Blueprint-2025?style=social)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📱 Task Manager
 **Congressional App Challenge Entry**
 
-Kotlin-based task management app created for the Congressional App Challenge.
+A Kotlin-based Android task management app built for the Congressional App Challenge, focusing on intuitive UX and productivity-driven design.
+
+`Kotlin` `Android` `SQLite`
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Darksharkthe1st/Task-Manager)
+![Stars](https://img.shields.io/github/stars/Darksharkthe1st/Task-Manager?style=social)
 
 </td>
 </tr>
@@ -125,8 +135,8 @@ Kotlin-based task management app created for the Congressional App Challenge.
 ## 🎯 Current Focus
 
 - 🧠 Deepening expertise in **neural networks** and **deep learning architectures**
-- 🤖 Leading robotics programming and electronics for **FRC Team 2170's** competition season
-- 📚 Strengthening foundation in **computer science fundamentals**
+- 🤖 Leading programming & electronics for **FRC Team 2170**'s competition season
+- 📚 Strengthening foundations in **computer science** and **data structures**
 - 🎓 Preparing for the next chapter in higher education
 
 ---
@@ -136,8 +146,7 @@ Kotlin-based task management app created for the Congressional App Challenge.
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-jessewang2158@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jessewang2158@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-860--266--9870-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:860-266-9870)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jesse--h--wang-0077B5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIMTkuNDVWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2IDIuMDYgMCAwIDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxIDEgMi4wNjMgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/jesse-h-wang/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jesse--h--wang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-h-wang/)
 
 </div>
 
