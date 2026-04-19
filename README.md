@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Jesse Wang
 
-### High School Senior · Machine Learning Enthusiast · Robotics Programming Captain
+### High School Senior · Machine Learning Enthusiast · Robotics Programming & Electronics Captain
 
 I'm a senior at **Glastonbury High School** passionate about machine learning and robotics.
 As **Programming & Electronics Captain** for [Team 2170](https://github.com/Team2170), I lead technical development while continuously deepening my knowledge in AI and computer science.
