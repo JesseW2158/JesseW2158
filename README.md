@@ -2,12 +2,11 @@
 
 # 👋 Hey, I'm Jesse Wang
 
-### High School Senior · Machine Learning Enthusiast · Robotics Programming & Electronics Captain
+#### Incoming CS & Math @ UMass Amherst
 
-I'm a senior at **Glastonbury High School**, passionate about machine learning and robotics.
-As the **Programming & Electronics Captain** for [Team 2170](https://github.com/Team2170), I lead technical development while continuously deepening my knowledge in AI and computer science.
+I'm an incoming Computer Science and Math major at the **University of Massachusetts Amherst** who likes building things close to the metal, such as an OpenGL particle simulator, a from-scratch chess engine, and machine learning models. I'm happiest writing low-level systems code and figuring out how things work under the hood.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+intelligent+systems;Exploring+machine+learning;Leading+robotics+programming" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=480&lines=Writing+OpenGL+renderers+from+scratch;Training+models+for+medical+imaging;Building+a+chess+engine+in+Java;Exploring+machine+learning" alt="Typing SVG" />
 
 </div>
 
@@ -18,36 +17,36 @@ As the **Programming & Electronics Captain** for [Team 2170](https://github.com/
 <div align="center">
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
 ### Machine Learning & Data Science
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Ultralytics](https://img.shields.io/badge/ultralytics-%23111F68.svg?style=for-the-badge&logo=ultralytics&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-111F68.svg?style=for-the-badge&logo=ultralytics&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-### Frameworks & Platforms
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+### Frameworks & Tools
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-
-### Tools & Technologies
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
 </div>
 
@@ -61,56 +60,54 @@ As the **Programming & Electronics Captain** for [Team 2170](https://github.com/
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 2026-Rebuilt
-**Our 2026 Season FRC Robot**
+### ♟️ Chess Engine
+**From-scratch engine in Java**
 
-The Galvanized Guardians' 2026 season competition robot — featuring swerve drive, AdvantageKit telemetry, PathPlanner autonomous routines, and Phoenix 6 motor control.
+A complete chess engine with FEN parsing, legal move generation, alpha-beta pruning, perft testing to verify move-gen correctness, and a tapered evaluation built on piece-square tables.
 
-`Java` `WPILib` `PathPlanner` `Phoenix 6`
+`Java` `Alpha-Beta Pruning` `Perft` `Game AI`
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Team2170/2026-Rebuilt)
-![Stars](https://img.shields.io/github/stars/Team2170/2026-Rebuilt?style=social)
+<!-- TODO: replace # below with your repo URL, or delete this card if it isn't public yet -->
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
 </td>
 <td width="50%" valign="top">
 
-### 💓 PulseLine
-**Health Monitoring Agent**
+### 🌌 Particle Simulation
+**Real-time graphics with LWJGL**
 
-A Python-based healthcare agent designed to help lessen the burden on medical professionals worldwide through intelligent health monitoring and alerting.
+A real-time particle simulator rendering thousands of spheres through instanced rendering in modern OpenGL, built directly on LWJGL with no engine in between.
 
-`Python` `FastAPI` `ML` `Twilio`
+`Java` `LWJGL` `OpenGL` `Instanced Rendering`
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PulseLine-Agent/PulseLine)
-![Stars](https://img.shields.io/github/stars/PulseLine-Agent/PulseLine?style=social)
+<!-- TODO: replace # below with your repo URL, or delete this card if it isn't public yet -->
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🗺️ Blueprint 2025
-**MIT Hackathon Project**
+### 💓 PulseLine
+**Health monitoring agent**
 
-An MIT hackathon project using Arduino hardware and pose-detection software to monitor posture and deliver real-time feedback, encouraging users to maintain healthy ergonomics.
+A Python healthcare agent built to ease the load on medical professionals through intelligent health monitoring and alerting.
 
-`Python` `Arduino` `Computer Vision` `MediaPipe`
+`Python` `FastAPI` `ML` `Twilio`
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JesseW2158/Blueprint-2025)
-![Stars](https://img.shields.io/github/stars/JesseW2158/Blueprint-2025?style=social)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PulseLine-Agent/PulseLine)
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 Task Manager
-**Congressional App Challenge Entry**
+### 🗺️ Blueprint 2025
+**MIT hackathon project**
 
-A Kotlin-based Android task management app built for the Congressional App Challenge, focusing on intuitive UX and productivity-driven design.
+An MIT hackathon build pairing Arduino hardware with pose detection to monitor posture and deliver real-time ergonomic feedback.
 
-`Kotlin` `Android` `SQLite`
+`Python` `Arduino` `Computer Vision` `MediaPipe`
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Darksharkthe1st/Task-Manager)
-![Stars](https://img.shields.io/github/stars/Darksharkthe1st/Task-Manager?style=social)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JesseW2158/Blueprint-2025)
 
 </td>
 </tr>
@@ -120,24 +117,34 @@ A Kotlin-based Android task management app built for the Congressional App Chall
 
 ---
 
+## 🔬 Research & Recognition
+
+- 🔬 **Machine Learning Research** — CT (computed tomography) foundation models and multiple-instance learning for cancer assessment @ Columbia University
+- 🏆 **Amazon Future Engineer Scholarship**
+- 🏅 **NCWIT Aspirations in Computing** — National Honorable Mention
+- 🎖️ **MITES Achievement Award** - For my work on PulseLine
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JesseW2158&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JesseW2158&theme=tokyonight" alt="Profile Summary" />
+<img height="165" src="https://github-readme-stats-khaki-ten-32.vercel.app//api?username=JesseW2158&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-khaki-ten-32.vercel.app//api/top-langs/?username=JesseW2158&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com?user=JesseW2158&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 ---
 
 ## 🎯 Current Focus
 
-- 🧠 Deepening expertise in **neural networks** and **deep learning architectures**
-- 🤖 Leading programming & electronics for **FRC Team 2170**'s competition season
-- 📚 Strengthening foundations in **computer science** and **data structures**
-- 🎓 Preparing for the next chapter in higher education
+- ♟️ Squeezing more depth out of my **Java chess engine**'s search and evaluation
+- 🌌 Prepping for my internship @ **Amazon** for the summer of 2027
+- 🧠 Focusing on **machine learning** and it's endless possibilities 
+- 🎓 Giving back to the FIRST Robotics community as a mentor
 
 ---
 
@@ -147,16 +154,6 @@ A Kotlin-based Android task management app built for the Congressional App Chall
 
 [![Email](https://img.shields.io/badge/Email-jessewang2158@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jessewang2158@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jesse--h--wang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-h-wang/)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
