@@ -67,8 +67,7 @@ A complete chess engine with FEN parsing, legal move generation, alpha-beta prun
 
 `Java` `Alpha-Beta Pruning` `Perft` `Game AI`
 
-<!-- TODO: replace # below with your repo URL, or delete this card if it isn't public yet -->
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JesseW2158/Chess)
 
 </td>
 <td width="50%" valign="top">
@@ -80,8 +79,7 @@ A real-time particle simulator rendering thousands of spheres through instanced 
 
 `Java` `LWJGL` `OpenGL` `Instanced Rendering`
 
-<!-- TODO: replace # below with your repo URL, or delete this card if it isn't public yet -->
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JesseW2158/Particle-Simulation)
 
 </td>
 </tr>
@@ -120,7 +118,7 @@ An MIT hackathon build pairing Arduino hardware with pose detection to monitor p
 ## 🔬 Research & Recognition
 
 - 🔬 **Machine Learning Research** — CT (computed tomography) foundation models and multiple-instance learning for cancer assessment @ Columbia University
-- 🏆 **Amazon Future Engineer Scholarship**
+- 🏆 **Amazon Future Engineer Scholarship** - Incoming Summer 2027 SWE Intern @ Amazon
 - 🏅 **NCWIT Aspirations in Computing** — National Honorable Mention
 - 🎖️ **MITES Achievement Award** - For my work on PulseLine
 
