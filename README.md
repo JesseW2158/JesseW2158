@@ -128,8 +128,8 @@ An MIT hackathon build pairing Arduino hardware with pose detection to monitor p
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-khaki-ten-32.vercel.app//api?username=JesseW2158&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats-khaki-ten-32.vercel.app//api/top-langs/?username=JesseW2158&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="165" src="https://github-stats-extended.vercel.app//api?username=JesseW2158&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="165" src="https://github-stats-extended.vercel.app//api/top-langs/?username=JesseW2158&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com?user=JesseW2158&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
