@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Hey, I'm Jesse Wang
+# 👋 Jesse Wang
 
 #### Incoming CS & Math @ UMass Amherst
 
-I'm an incoming Computer Science and Math major at the **University of Massachusetts Amherst** who likes building things close to the metal, such as an OpenGL particle simulator, a from-scratch chess engine, and machine learning models. I'm happiest writing low-level systems code and figuring out how things work under the hood.
+I'm a first-generation college student heading into a Computer Science and Math double major at the **University of Massachusetts Amherst**. I like understanding systems from the bottom up — whether that means writing a chess engine's search from scratch, pushing thousands of instanced particles through raw OpenGL, or fine-tuning a model on MRI scans. If it's low-level, uncertain, or a little too ambitious for a weekend, I probably want to build it.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=480&lines=Writing+OpenGL+renderers+from+scratch;Training+models+for+medical+imaging;Building+a+chess+engine+in+Java;Exploring+machine+learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=480&lines=Debugging+one+layer+below+everyone+else;Teaching+a+chess+engine+to+see+ahead;Training+models+to+read+medical+scans;Chasing+problems+with+no+clean+answer" alt="Typing SVG" />
 
 </div>
 
@@ -63,9 +63,9 @@ I'm an incoming Computer Science and Math major at the **University of Massachus
 ### ♟️ Chess Engine
 **From-scratch engine in Java**
 
-A complete chess engine with FEN parsing, legal move generation, alpha-beta pruning, perft testing to verify move-gen correctness, and a tapered evaluation built on piece-square tables.
+A full chess engine built from the ground up: FEN parsing, legal move generation, alpha-beta search with Zobrist hashing and a transposition table, null-move pruning, and a tapered evaluation on piece-square tables — verified against perft to make sure the move generator never lies.
 
-`Java` `Alpha-Beta Pruning` `Perft` `Game AI`
+`Java` `Alpha-Beta Pruning` `Zobrist Hashing` `Game AI`
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JesseW2158/Chess)
 
@@ -75,7 +75,7 @@ A complete chess engine with FEN parsing, legal move generation, alpha-beta prun
 ### 🌌 Particle Simulation
 **Real-time graphics with LWJGL**
 
-A real-time particle simulator rendering thousands of spheres through instanced rendering in modern OpenGL, built directly on LWJGL with no engine in between.
+A real-time particle simulator rendering thousands of spheres through instanced rendering in modern OpenGL, built directly on LWJGL with no engine in between — just the graphics pipeline and me.
 
 `Java` `LWJGL` `OpenGL` `Instanced Rendering`
 
@@ -87,25 +87,26 @@ A real-time particle simulator rendering thousands of spheres through instanced 
 <td width="50%" valign="top">
 
 ### 💓 PulseLine
-**Health monitoring agent**
+**Agentic AI medical voice assistant**
 
-A Python healthcare agent built to ease the load on medical professionals through intelligent health monitoring and alerting.
+A 24/7 agentic assistant that autonomously handles patient phone calls — scheduling, prescription refills, doctor lookups — through a real-time voice pipeline built on Twilio and the OpenAI Realtime API, backed by a FastAPI service and a PostgreSQL patient database for context-aware responses.
 
-`Python` `FastAPI` `ML` `Twilio`
+`Python` `FastAPI` `PostgreSQL` `Twilio`
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PulseLine-Agent/PulseLine)
 
 </td>
 <td width="50%" valign="top">
 
-### 🗺️ Blueprint 2025
-**MIT hackathon project**
+### 🌐 Personal Website
+**Portfolio & project hub**
 
-An MIT hackathon build pairing Arduino hardware with pose detection to monitor posture and deliver real-time ergonomic feedback.
+My personal site, pulling my projects, research, and resume together in one place. Inspired by PedroTech, this was built using React and TailwindCSS, 
 
-`Python` `Arduino` `Computer Vision` `MediaPipe`
+`React` `TailwindCSS` `JavaScript` `Frontend`
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JesseW2158/Blueprint-2025)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JesseW2158/Portfolio-Website)
+[![Website](https://img.shields.io/badge/Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jesse-h-wang.vercel.app/)
 
 </td>
 </tr>
@@ -117,10 +118,12 @@ An MIT hackathon build pairing Arduino hardware with pose detection to monitor p
 
 ## 🔬 Research & Recognition
 
-- 🔬 **Machine Learning Research** — CT (computed tomography) foundation models and multiple-instance learning for cancer assessment @ Columbia University
-- 🏆 **Amazon Future Engineer Scholarship** - Incoming Summer 2027 SWE Intern @ Amazon
+- 🔬 **Columbia University** — optimizing the MMIST-ccRCC benchmark with Professor Adam Lin, replacing task-specific encoders like 3D-ResNet18 with Google's CT Foundation Model for clear cell renal cell carcinoma assessment
+- 🧠 **University of Connecticut** — built an ML pipeline for automated brain tumor segmentation and progression prediction, fine-tuning Meta's Segment Anything Model 2 on the Cancer Imaging Archive's Brain Tumor Progression dataset
+- 🏆 **Amazon Future Engineer Scholar** — incoming Software Engineering Intern @ Amazon, Summer 2027
+- 🥇 **Best of MITES** — for writing on the limitations of AI, plus the MITES Semester Achievement Award for PulseLine
 - 🏅 **NCWIT Aspirations in Computing** — National Honorable Mention
-- 🎖️ **MITES Achievement Award** - For my work on PulseLine
+- 🎖️ 3rd place @ Quinnipiac University Hackathon · 3rd place @ MIT Blueprint
 
 ---
 
@@ -140,9 +143,10 @@ An MIT hackathon build pairing Arduino hardware with pose detection to monitor p
 ## 🎯 Current Focus
 
 - ♟️ Squeezing more depth out of my **Java chess engine**'s search and evaluation
-- 🌌 Prepping for my internship @ **Amazon** for the summer of 2027
-- 🧠 Focusing on **machine learning** and it's endless possibilities 
-- 🎓 Giving back to the FIRST Robotics community as a mentor
+- 🔬 Pushing the ccRCC cancer assessment model forward with Columbia's research team
+- 🤖 Leading FRC Team 2170 as Programming & Electronics Captain, growing the team from 28 to 63 students
+- 🌌 Prepping for my internship @ **Amazon** in the summer of 2027
+- 📈 Getting curious about quant research — modeling uncertainty is basically the same puzzle as everything else I love building
 
 ---
 
