@@ -2,9 +2,9 @@
 
 # 👋 Jesse Wang
 
-#### Incoming CS & Math @ UMass Amherst
+#### CS & Math @ UMass Amherst
 
-I'm a first-generation college student heading into a Computer Science and Math double major at the **University of Massachusetts Amherst**. I like understanding systems from the bottom up — whether that means writing a chess engine's search from scratch, pushing thousands of instanced particles through raw OpenGL, or fine-tuning a model on MRI scans. If it's low-level, uncertain, or a little too ambitious for a weekend, I probably want to build it.
+I'm a first-generation college student double majoring in Computer Science and Math at the **University of Massachusetts Amherst**. I like understanding systems from the bottom up — whether that means writing a chess engine's search from scratch, pushing thousands of instanced particles through raw OpenGL, or fine-tuning a model on MRI scans. If it's low-level, uncertain, or a little too ambitious for a weekend, I probably want to build it.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=480&lines=Debugging+one+layer+below+everyone+else;Teaching+a+chess+engine+to+see+ahead;Training+models+to+read+medical+scans;Chasing+problems+with+no+clean+answer" alt="Typing SVG" />
 
