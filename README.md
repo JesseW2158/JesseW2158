@@ -2,7 +2,7 @@
 
 # 👋 Jesse Wang
 
-#### CS & Math @ UMass Amherst
+#### CS & Applied Math @ UMass Amherst
 
 I'm a first-generation college student double majoring in Computer Science and Math at the **University of Massachusetts Amherst**. I like understanding systems from the bottom up — whether that means writing a chess engine's search from scratch, pushing thousands of instanced particles through raw OpenGL, or fine-tuning a model on MRI scans. If it's low-level, uncertain, or a little too ambitious for a weekend, I probably want to build it.
 
@@ -19,7 +19,7 @@ I'm a first-generation college student double majoring in Computer Science and M
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=whihttps://github.com/JesseW2158/JesseW2158/blob/main/README.mdte)
 ![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
